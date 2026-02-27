@@ -32,7 +32,7 @@ Ensure you have Node.js installed on your machine.
 1. Clone the repository and navigate to the project directory:
 
 ```bash
-cd TarsChat/server/chat
+cd tarschat
 ```
 
 2. Install dependencies:
