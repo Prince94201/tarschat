@@ -78,7 +78,7 @@ export function MessageItem({ message, isOwnMessage, currentUserId }: MessageIte
                             className={`px-4 py-2 shadow-sm rounded-3xl ${message.isDeleted
                                 ? "bg-muted text-muted-foreground italic border border-muted"
                                 : isOwnMessage
-                                    ? "bg-indigo-600 text-white rounded-tr-sm"
+                                    ? "bg-orange-600 text-white rounded-tr-sm"
                                     : "bg-muted/80 text-foreground rounded-tl-sm"
                                 }`}
                         >
